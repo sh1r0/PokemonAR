@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+	<ImageTarget size="247 173" name="wood">
+      <VirtualButton name="red" rectangle="-108.68 -53.52 -75.75 -65.87" enabled="true" />
+      <VirtualButton name="blue" rectangle="-45.28 -53.52 -12.35 -65.87" enabled="true" />
+      <VirtualButton name="yellow" rectangle="14.82 -53.52 47.75 -65.87" enabled="true" />
+      <VirtualButton name="green" rectangle="76.57 -53.52 109.50 -65.87" enabled="true" />
+    </ImageTarget>
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,6 @@
+[submodule "Rajawali"]
+	path = Rajawali
+	url = git@github.com:sh1r0/Rajawali.git
+[submodule "RajawaliVuforia"]
+	path = RajawaliVuforia
+	url = git@github.com:sh1r0/RajawaliVuforia.git
